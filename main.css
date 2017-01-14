@@ -1,12 +1,13 @@
 body {
     background: #fafafa;
 	background-color: floralwhite;
-    color: #545454;
+    color: #241836;
     line-height: 1.5;
     margin: 0 auto;
     max-width: 800px;
 	font: 100%/30px 'Helvetica Neue', helvetica, arial, sans-serif;
-	text-shadow: 0 1px 0 #fff;
+	text-shadow: 0px 0px 6px rgba(255,255,255,1);
+
 }
 header {
 	height: 200px;
@@ -258,14 +259,16 @@ nav a {
 	display: inline-block;
 	margin: 15px 25px;
 	outline: none;
-	color: #444;
+
 	text-decoration: none;
 	text-transform: uppercase;
 	letter-spacing: 1px;
-	font-weight: 400;
-	font: 100%/30px 'Helvetica Neue', helvetica, arial, sans-serif;
-	text-shadow: 0 1px 0 #fff;
-	font-size: 1.35em;
+	font: 100%/30px 'Helvetica Neue', sans-serif;
+	font-stretch: ultra-expanded;
+	color: rgba(0,0,0,1);
+	text-shadow: 2px 8px 6px rgba(0,0,0,0.2),
+                 0px -5px 35px rgba(255,255,255,0.3);
+	font-size: 2em;
 }
 
 nav a:hover,
