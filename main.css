@@ -88,6 +88,34 @@ header {
   font-weight: bold;
   text-align: center;
 }
+.flex-item70kv {
+  background: tomato;
+  background-image: url(img/70kv.jpg);
+  padding: 5px;
+  width: 380px;
+  height: 380px;
+  margin-top: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  line-height: 400px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+.flex-item100kv {
+  background: tomato;
+  background-image: url(img/100kv.jpg);
+  padding: 5px;
+  width: 380px;
+  height: 380px;
+  margin-top: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  line-height: 400px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
 .flex-itembig {
   background: tomato;
   padding: 5px;
