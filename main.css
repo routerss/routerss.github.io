@@ -4,7 +4,7 @@ body {
     color: #241836;
     line-height: 1.5;
     margin: 0 auto;
-    max-width: 800px;
+    max-width: 1024px;
 	font: 100%/30px 'Helvetica Neue', helvetica, arial, sans-serif;
 	text-shadow: 0px 0px 6px rgba(255,255,255,1);
 
@@ -17,7 +17,7 @@ header {
   margin: 0;
   padding: 0;
   list-style-type: none;
-  width: 800;
+  width: 1024px;
   text-align: center;
   background-color: tomato;
 }
@@ -28,7 +28,7 @@ header {
   text-decoration: none;
   font-weight: bold;
   display: inline-block;
-  width: 186.5px;
+  width: 252px;
 }
 .navbar a:hover {
   background-color: #9595b6;
@@ -121,7 +121,7 @@ header {
 .flex-itembig {
   background: tomato;
   padding: 5px;
-  width: 800px;
+  width: 1024px;
   height: 800px;
   margin-top: 10px;
   margin-left: 5px;
@@ -132,7 +132,7 @@ header {
 .flex-itembighei {
   background: tomato;
   padding: 5px;
-  width: 800px;
+  width: 1024px;
   height: 1100px;
   margin-top: 10px;
   margin-left: 5px;
@@ -314,6 +314,10 @@ nav a:focus {
 	transform: translateX(-50%) translateY(-50%) scale(1);
 }
 iframe {
-	width:770px;
+	width:1010px;
 	height: 750px;
+}
+
+.long {
+	height: 1024px;
 }
