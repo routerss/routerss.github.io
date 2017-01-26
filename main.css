@@ -39,7 +39,7 @@ header {
   text-decoration: none;
   font-weight: bold;
   display: inline-block;
-  width: 252px;
+  width: 200px;
 }
 .navbar a:hover {
   	
@@ -147,6 +147,21 @@ header {
   font-weight: bold;
   text-align: center;
 }
+.flex-itemmore100kv {
+  background-color: #f0f0f0;
+  background-image: url(img/100kv.jpg);
+  padding: 5px;
+  width: 380px;
+  height: 380px;
+  margin-top: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  line-height: 400px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+
 .flex-itembig {
   background-color: #f0f0f0;
   padding: 5px;
